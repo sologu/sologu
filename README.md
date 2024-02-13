@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @sologu
 - 👀 I’m interested in protein design and Engineering
-- 🌱 I’m currently learning Rosetta and pyrosetta
-- 💞️ I’m looking to collaborate on Protein-protien interaction, miniproteins as inhibitors 
+
 
 
 <!---
